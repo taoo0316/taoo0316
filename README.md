@@ -1,11 +1,7 @@
 ### Hi there 👋
 
-
-**taoo0316/taoo0316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-- 🔭 I’m currently a computer science student at Yale-NUS College and a budding data scientist.
-- 📫 How to reach me: Email:zhu.wentao@u.yale-nus.edu.sg
+- 🔭 I’m  a computer science student at Yale-NUS College and a budding data scientist. I am always looking to grow my techinal skillsets and learn more about the world of technology.
+- 📫 How to reach me: zhu.wentao@u.yale-nus.edu.sg
 
 Check out what projects I have been up to!
 
