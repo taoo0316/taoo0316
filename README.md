@@ -14,3 +14,6 @@ Check out what projects I have been up to!
 
 Also, here is a photo that represents an ideal life I'd love to lead. You can probably tell what my favourite colour is from my profile picture and the photo above:D.
 
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+
+
