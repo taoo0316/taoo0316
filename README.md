@@ -4,6 +4,10 @@
 - 🧠 I am also a student a Yale-NUS College, the leading liberal arts college in Asia. There, I was able to take classes from various disciplines and academic traditions, which helped me become a more methodical thinker, learner and communicator. 
 - 📫 How to reach me: zhu.wentao[at]u[dot]yale-nus[dot]edu[dot]sg
 
+![](https://github.com/taoo0316/github-stats/blob/master/generated/overview.svg)
+
+![](https://github.com/taoo0316/github-stats/blob/master/generated/languages.svg)
+
 Check out what projects I have been up to!
 
 [![blue-sky-cat.jpg](https://i.postimg.cc/90s2qrTG/blue-sky-cat.jpg)](https://postimg.cc/0KGFT5VQ)
