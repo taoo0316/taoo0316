@@ -13,7 +13,3 @@ Check out what projects I have been up to!
 [![blue-sky-cat.jpg](https://i.postimg.cc/90s2qrTG/blue-sky-cat.jpg)](https://postimg.cc/0KGFT5VQ)
 
 Also, here is a photo that represents an ideal life I'd love to lead. You can probably tell what my favourite colour is from my profile picture and the photo above:D.
-
-![https://github.com/taoo0316](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-
-
