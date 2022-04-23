@@ -6,8 +6,6 @@
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=taoo0316&count_private=true&theme=tokyonight&showicons=true)]()
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=taoo0316&langs_count=5&theme=tokyonight)]()
-
 Check out what projects I have been up to!
 
 [![blue-sky-cat.jpg](https://i.postimg.cc/90s2qrTG/blue-sky-cat.jpg)](https://postimg.cc/0KGFT5VQ)
