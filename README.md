@@ -5,6 +5,10 @@
 - 📫 How to reach me: zhu.wentao[at]u[dot]yale-nus[dot]edu[dot]sg. 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=taoo0316&count_private=true&theme=tokyonight&showicons=true)]()
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=taoo0316&count_private=true)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=taoo0316&show_icons=true&theme=gruvbox_light)
+
+
 
 Check out what projects I have been up to!
 
