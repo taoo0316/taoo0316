@@ -4,7 +4,7 @@
 - 🧠 I am also a student a Yale-NUS College, the leading liberal arts college in Asia. There, I was able to take classes from various disciplines and academic traditions, which helped me become a more methodical thinker, learner and communicator. 
 - 📫 How to reach me: zhu.wentao[at]u[dot]yale-nus[dot]edu[dot]sg. 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taoo0316&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taoo0316&layout=compact&count_private=true&hide=jupyternotebook)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
