@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I am  a computer science student and a budding data scientist. I am always looking to grow my technical skillsets and learn more about the world of technology.
-- 🧠 I am also a student a Yale-NUS College, the leading liberal arts college in Asia. There, I was able to take classes from various disciplines and academic traditions, which helped me become a more methodical thinker, learner and communicator. 
+- 🧠 I am also a student a Yale-NUS College, the leading liberal arts college in Asia. There, I was able to take classes across disciplines and academic traditions, which helped me become a more methodical thinker, learner and communicator. 
 - 📫 How to reach me: zhu.wentao[at]u[dot]yale-nus[dot]edu[dot]sg. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taoo0316&layout=compact&count_private=true&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
