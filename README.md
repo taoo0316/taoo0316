@@ -13,5 +13,7 @@ Also, here is a photo that represents an ideal life I'd love to lead. You can pr
 
 [NEWS]
 2020.07 Enrolled in Yale-NUS College!
+
 2019.12 Graduated from Hwa Chong Institution!
+
 2015.12 Moved to Singapore!
