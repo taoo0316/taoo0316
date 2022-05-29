@@ -4,7 +4,7 @@
 
 - 🧠 I am also a student a Yale-NUS College, the leading liberal arts college in Asia. There, I was able to take classes across disciplines and academic traditions, which helped me become a more methodical thinker, learner and communicator. 
 
-- 👨‍💻 I will be applying for master's programs in data science in 2024.
+- 👨‍💻 I will be applying for master's programs in data science/machine learning in 2024.
 
 - 📫 How to reach me: zhu.wentao[at]u[dot]yale-nus[dot]edu[dot]sg.
 
