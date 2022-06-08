@@ -23,6 +23,7 @@ Also, here is a photo that represents an ideal life I'd love to lead. You can pr
 2015.10 Moved to Singapore!
 
 [AWARDS]
+
 *Georgette Chen Study Award 2022
 Yale-NUS Study Award 2020
 Hwa Chong Diploma with Distinction 2019
