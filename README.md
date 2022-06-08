@@ -14,9 +14,9 @@ Check out what projects I have been up to!
 
 Also, here is a photo that represents an ideal life I'd love to lead. You can probably tell what my favourite colour is from my profile picture and the photo above:D.
 
-[NEWS]
+[NEWS]                                                                      
 
-2020.07 Enrolled in Yale-NUS College!
+2020.07 Enrolled in Yale-NUS College!                                      
 
 2019.12 Graduated from Hwa Chong Institution!
 
