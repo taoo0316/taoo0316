@@ -23,16 +23,3 @@ Check out what projects I have been up to!
 [![blue-sky-cat.jpg](https://i.postimg.cc/90s2qrTG/blue-sky-cat.jpg)](https://postimg.cc/0KGFT5VQ)
 
 Also, here is a photo that represents an ideal life I'd love to lead. You can probably tell what my favourite colour is from my profile picture and the photo above:D.
-
-
-[AWARDS]
-
-*Georgette Chen Study Award 2022*
-
-*Yale-NUS Study Award 2020*
-
-*Hwa Chong Diploma with Distinction 2019*
-
-*Yang Shui Chor Scholarship 2016*
-
-*Junior Middle 3 Scholarship for PRC Students 2015*
