@@ -10,6 +10,21 @@
 
 Check out what projects I have been up to!
 
+
+[NEWS]                                                                      
+
+*2020.07 Enrolled in Yale-NUS College!*                                     
+
+*2019.12 Graduated from Hwa Chong Institution!*
+
+*2015.10 Moved to Singapore!*
+
+
+[![blue-sky-cat.jpg](https://i.postimg.cc/90s2qrTG/blue-sky-cat.jpg)](https://postimg.cc/0KGFT5VQ)
+
+Also, here is a photo that represents an ideal life I'd love to lead. You can probably tell what my favourite colour is from my profile picture and the photo above:D.
+
+
 [AWARDS]
 
 *Georgette Chen Study Award 2022*
@@ -21,15 +36,3 @@ Check out what projects I have been up to!
 *Yang Shui Chor Scholarship 2016*
 
 *Junior Middle 3 Scholarship for PRC Students 2015*
-
-[![blue-sky-cat.jpg](https://i.postimg.cc/90s2qrTG/blue-sky-cat.jpg)](https://postimg.cc/0KGFT5VQ)
-
-Also, here is a photo that represents an ideal life I'd love to lead. You can probably tell what my favourite colour is from my profile picture and the photo above:D.
-
-[NEWS]                                                                      
-
-2020.07 Enrolled in Yale-NUS College!                                      
-
-2019.12 Graduated from Hwa Chong Institution!
-
-2015.10 Moved to Singapore!
