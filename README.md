@@ -4,6 +4,8 @@
 
 - 📫 How to reach me: zhu.wentao[at]u[dot]yale-nus[dot]edu[dot]sg.
 
+- 💻 I will be applying for master's programs in data science/machine learning in 2024.
+
 Check out what projects I have been up to!
 
 [![blue-sky-cat.jpg](https://i.postimg.cc/90s2qrTG/blue-sky-cat.jpg)](https://postimg.cc/0KGFT5VQ)
