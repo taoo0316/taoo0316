@@ -1,12 +1,8 @@
 ### Hi there 👋
 
-- 🧠 I am a computer science student a Yale-NUS College, the leading liberal arts college in Asia. There, I was able to take classes across disciplines and academic traditions, which helped me become a more methodical thinker, learner and communicator. 
+🧠 I am a computer science student a Yale-NUS College, the leading liberal arts college in Asia. There, I was able to take classes across disciplines and academic traditions, which helped me become a more methodical thinker, learner and communicator. 
 
-- 📫 How to reach me: zhu.wentao[at]u[dot]yale-nus[dot]edu[dot]sg.
-
-- 💻 I will be applying for master's programs in data science/machine learning in 2024.
-
-Check out what projects I have been up to!
+Visit my [website](https://taoo0316.github.io/) for more!
 
 [![blue-sky-cat.jpg](https://i.postimg.cc/90s2qrTG/blue-sky-cat.jpg)](https://postimg.cc/0KGFT5VQ)
 
