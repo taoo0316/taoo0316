@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👨‍💻 I am a computer science student a Yale-NUS College, the leading liberal arts college in Asia. There, I was able to take classes across disciplines and academic traditions, which helped me become a more methodical thinker, learner and communicator. 
+- 👨‍💻 I am a computer science student at Yale-NUS College, the leading liberal arts college in Asia. There, I was able to take classes across disciplines and academic traditions, which helped me become a more methodical thinker, learner and communicator. 
 
 - 📫 Visit my [website](https://taoo0316.github.io/) for more!
 
