@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👨‍💻 I am a MCS student at Yale-NUS College, the leading liberal arts college in Asia. 
+- 👨‍💻 I am an MCS student at Yale-NUS College, the leading liberal arts college in Asia. 
 - 📫 Visit my [website](https://taoo0316.github.io/) for more!
 
 [![blue-sky-cat.jpg](https://i.postimg.cc/90s2qrTG/blue-sky-cat.jpg)](https://postimg.cc/0KGFT5VQ)
