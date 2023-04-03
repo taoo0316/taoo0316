@@ -3,7 +3,7 @@
 - 👨‍💻 I am an MCS student at Yale-NUS College, the leading liberal arts college in Asia. 
 - 📫 Visit my [website](https://taoo0316.github.io/) for more!
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=jupyternotebook&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taoo0316&hide=jupyternotebook&theme=tokyonight)
 
 **Connect with Me**
 
