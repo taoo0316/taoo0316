@@ -3,6 +3,8 @@
 - 👨‍💻 I am an MCS student at Yale-NUS College, the leading liberal arts college in Asia. 
 - 📫 Visit my [website](https://taoo0316.github.io/) for more!
 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=taoo0316)](https://github.com/taoo0316/github-readme-stats)
+
 **Connect with Me**
 
 [<img align="left" alt="Website" width="22px" src="./globe.svg" />](https://taoo0316.github.io/ "Portfolio")
