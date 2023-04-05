@@ -9,3 +9,6 @@
 [<img align="left" alt="Email" width="22px" src="./email.svg" />](mailto:zhu.wentao@u.yale-nus.edu.sg "E-mail")
 [<img align="left" alt="LinkedIn" width="22px" src="./linkedin.svg" />](https://www.linkedin.com/in/zhu-wentao "LinkedIn")
 [<img align="left" alt="Telegram" width="22px" src="./telegram.svg" />](https://t.me/taoo0316 "Telegram")
+
+
+![](https://komarev.com/ghpvc/?username=taoo0316&color=2188ff)
