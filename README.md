@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👨‍💻 I am an MCS student at Yale-NUS College, the leading liberal arts college in Asia. 
+- 👨‍💻 I am Wentao, an MCS student at Yale-NUS College, the leading liberal arts college in Asia. 
 - 📫 Visit my [website](https://taoo0316.github.io/) for more!
 
 **Connect with Me**
