@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 👨‍💻 I am Wentao, currently based in Singapore.
-- 📫 Visit my [website](https://zhuwentao.net/) for more! You might also want to see what I learnt in [college](https://minimal-eight.vercel.app/).
+- 📫 You might be interested to see what I learnt in [college](https://minimal-eight.vercel.app/).
 
 **Connect with Me**
 
