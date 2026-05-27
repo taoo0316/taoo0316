@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 👨‍💻 I am Wentao, currently based in Singapore.
+- 💥 I build enterprise-grade AI agents driven by quantitative trading data at Hytech. 
 - 📫 You might be interested to see what I learnt in [college](https://minimal-eight.vercel.app/).
 
 **Connect with Me**
